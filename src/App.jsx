@@ -1,4 +1,3 @@
-
 import './App.css'
 import QRScanner from './QrScanner'
 
